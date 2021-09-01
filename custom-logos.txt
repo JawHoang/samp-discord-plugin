@@ -109,3 +109,5 @@ s4.gta-multiplayer.cz:7777=wtlscz
 80.241.245.126:1113=lsstories
 sv.gvc.vn:7777=gvcrp
 45.124.84.33=gvcrp
+sagmp.vn:7777=sagmp
+103.98.152.57=sagmp
